@@ -1,4 +1,4 @@
 # dog.rb
-class dog
+class Dog
 
-end 
+end
